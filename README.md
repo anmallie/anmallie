@@ -1,6 +1,6 @@
 ## Welcome!
 
-Hello, and welcome to my repository! It's pretty empty right now, but I plan to change that!
+Hello, and welcome to my repository!
 
 ### About Me
 
